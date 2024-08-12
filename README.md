@@ -1,4 +1,6 @@
+website:
 # SmartShoppers
+
 This project is an eCommerce website built with HTML, CSS, JavaScript, and Bootstrap. It features a structured layout for product listings and cart management, providing a responsive and visually appealing user interface.
 
 # Key Features
